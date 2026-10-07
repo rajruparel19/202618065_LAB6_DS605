@@ -1,0 +1,16 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large data (only if emails.csv > 50 MB)
+data/emails.csv
